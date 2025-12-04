@@ -1,8 +1,8 @@
 ---
 id: <leave blank -- will be assigned by reviewers>
-title: <proposal title>
-team: <team that will carry out the proposal, with a designated lead>
-created: <date created on, in yyyy-mm-dd format>
+title: On Sybil Proofness of AUCIL (Auction Based Inclusion List)
+team: Abhimanyu Nag (University of Alberta) [lead], Sarisht Wadhwa (Duke University)
+created: 2025-12-03 <date created on, in yyyy-mm-dd format>
 ---
 
 # Flashbots Research Proposal Template
